@@ -5,6 +5,8 @@ This project delivers a comprehensive loan analytics solution for **Pacific Cres
 
 All data is **synthetic** and modelled after a genuine regional bank’s auto loan book, covering **50 major California cities** in 2025‑2026. The project showcases the full analytics pipeline: data ingestion, SQL quality checks, and dynamic reporting.
 
+![Summary](assets/images/logo.png)
+
 ---
 
 ## Data Pipeline Architecture
@@ -45,7 +47,7 @@ These checks ensure the dashboards always reflect high‑quality, trustworthy da
 **Loan Status Grid View:**  
 A detailed table grouped by loan status (Fully Paid, Charged Off, Current, etc.) showing all the above metrics plus MTD funded/received, average interest, and average DTI.
 
-![Summary](assets/Summary.png)
+![Summary](assets/images/Summary.png)
 
 ---
 
@@ -60,7 +62,7 @@ A detailed table grouped by loan status (Fully Paid, Charged Off, Current, etc.)
 
 All charts are interactive and cross‑filterable, showing **Total Applications**, **Funded Amount**, and **Amount Received**.
 
-![Overview](assets/Overview.png)
+![Overview](assets/images/Overview.png)
 
 ---
 
@@ -74,7 +76,7 @@ A comprehensive grid view providing a one‑stop, searchable list of every loan 
 
 Users can export or drill through from other dashboards.
 
-![Deails](assets/Detail.png)
+![Deails](assets/images/Detail.png)
 
 ---
 
